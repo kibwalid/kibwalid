@@ -11,7 +11,10 @@ const kibwalid = {
             python: ["flask", "django"],
             java: "spring boot",
         } ,
-        database: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
+        database: {
+            sql: ["MySQL", "PostgreSQL"],
+            noSql: ["MongoDB", "Firebase"]
+            },
         devOps: ["docker", "kubernetes", "SonarQube", "Jenkins", "AWS"]
     },
     findMeAt: {
