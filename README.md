@@ -12,7 +12,7 @@ const kibwalid = {
             java: "spring boot",
         } ,
         database: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
-        devOps: ["docker", "kubernetes", "Jenkins", "AWS"]
+        devOps: ["docker", "kubernetes", "SonarQube", "Jenkins", "AWS"]
     },
     findMeAt: {
       gmail: "kibwalid@gmail.com",
