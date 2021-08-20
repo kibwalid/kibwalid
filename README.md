@@ -15,7 +15,7 @@ const kibwalid = {
             sql: ["MySQL", "PostgreSQL"],
             noSql: ["MongoDB", "Firebase"]
             },
-        devOps: ["docker", "kubernetes", "SonarQube", "Jenkins", "AWS"]
+        devOps: ["docker", "Jenkins", "Selenium", "Azure", "AWS"]
     },
     findMeAt: {
       gmail: "kibwalid@gmail.com",
