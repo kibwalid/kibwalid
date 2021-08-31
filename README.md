@@ -3,7 +3,7 @@
 ```js
 const kibwalid = {
     workAs: "Full-Stack Software Engineer",
-    codes: ["Java", "Python", "Flutter", "a bit of C++"],
+    codes: ["Java", "Python", "Flutter", "a bit of JS"],
     askMeAbout: ["fps games", "engineering", "finance", "crypto", "AI", "automation", "dope ideas", "travel")"],
     technologies: {
         frontEnd: ["bootstrap", "flutter"],
