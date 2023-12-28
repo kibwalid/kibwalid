@@ -1,8 +1,8 @@
 _Software engineer and undergrad based in Dhaka BD_ <br>
 
-### spike.js
+### kibwalid.js
 ```js
-const spike_at_a_glance = {
+const user_at_a_glance = {
     workAs: "Full-Stack Software Engineer",
     codes: ["Java", "Python", "Flutter", "a bit of JS"],
     askMeAbout: ["fps games", "engineering", "finance", "crypto", "AI", "automation", "dope ideas", "travel")"],
