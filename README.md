@@ -22,7 +22,7 @@ const user_at_a_glance = {
             },
         devOps: ["docker", "Selenium", "Azure", "cPanel", "Vercel"],
     },
-    management_skills: ["Agile methodology", "UML", "Strategic Planning and Task Estimation"]
+    management_skills: ["Agile methodology", "UML", "Strategic Planning and Task Estimation"],
     languages_spoken: [{"English", "Working Proficincy"}, {"German", "A2"}, {"Bangla", "Native"}, {"Hindi", "Native"}],
     findMeAt: {
       gmail: "kibwalid@gmail.com",
