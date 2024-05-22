@@ -5,22 +5,24 @@ _Software engineer and undergrad based in Dhaka BD_ <br>
 const user_at_a_glance = {
     workAs: "Full-Stack Software Engineer",
     codes: ["Java", "Python", "Flutter", "a bit of JS"],
-    askMeAbout: ["fps games", "engineering", "finance", "crypto", "AI", "automation", "dope ideas", "travel")"],
+    askMeAbout: ["fps games", "engineering", "finance", "anime/popculture", "AI", "automation", "dope ideas", "travel")"],
     technologies: {
-        frontEnd: ["flutter", "angular", "bootstrap"],
+        frontEnd: ["flutter", "react", "bootstrap", "javafx"],
         backEnd: {
             python: ["flask", "django"],
-            java: ["spring boot", "javafx"],
+            java: ["spring boot"],
         },
         noteable_libraries: {
-            java : [ "hibernate", "jpa", "selenium", "apache-poi"],
+            java : [ "hibernate", "jpa", "selenium", "apache-poi", "spring-security"],
+            python: ["pandas", "pytorch", "numpy"]
         },
         database: {
             sql: ["MySQL", "PostgreSQL"],
             noSql: ["MongoDB", "Firebase"]
             },
-        devOps: ["docker", "Selenium", "Azure", "AWS"]
+        devOps: ["docker", "Selenium", "Azure", "cPanel", "Vercel"],
     },
+    management_skills: ["Agile methodology", "UML", "Strategic Planning and Task Estimation"]
     languages_spoken: [{"English", "Working Proficincy"}, {"German", "A2"}, {"Bangla", "Native"}, {"Hindi", "Native"}],
     findMeAt: {
       gmail: "kibwalid@gmail.com",
@@ -39,7 +41,7 @@ _Safe haven for brilliant minds to grow._
 
 **Software Engineer** @ [Lexoro GmbH - MÜNCHEN, GERMANY](https://lexoro.ai/) _(Oct 2020 - June 2023)_ <br>
 _Focused on providing intelligent support to medical and pharmaceutical companies._
-  - Architected and programmed cross-platform applications utilizing Flutter framework.
+  - Architected and developed cross-platform applications and integrated external and native APIs, such as location tracking api, background processing, push notifications, RTCs and camera features.
   - Wrote code in multiple architecture layers, including the application core and integrations with external services
   - Developed highly scalable backend systems that facilitate seamless processing of massive data sets and AI algorithms, while concurrently optimizing user-end features.
   - Engineered RESTful APIs for web service-oriented infrastructures.
@@ -58,7 +60,17 @@ _IT Startup, trial and error towards a better product._
   - [Zanvent Stream](https://www.zanvent.com/) (First Live Game Streaming Platform in Bangladesh)
 <br><br>
 
-## 📌 Volunteering
+## 📌 Volunteering and Extra-curricular
+
+**General Member** @ [IUB IEEE Computer Society](https://ieeecsiub.com/) _(July 2023 - Present)_<br>
+_IEEE Computer Society IUB Student Branch Chapter is a community at the Independent University, Bangladesh (IUB) that focuses on assisting students in improving their skills in computer science and information technology._
+  <br><br>
+
+**Mentee** @ [Aspire Leaders Program](https://www.aspireleaders.org/program/aspire-leaders/) _(July 2023 - Nov 2023)_<br>
+  <br><br>
+
+**Scholar - IUB Arrows Program Cohort 2023** @ [Independent University, Bangladesh](http://www.arrows.iub.edu.bd/) _(June 2023 - Present)_<br>
+  <br><br>
 
 **TM External Relations & Partnership Development** @ [AIESEC](https://aiesec.org/) _(Mar 2021 - Aug 2021)_<br>
 _AIESEC is a community of young people, passionately driven by one cause: peace and fulfilment of humankind’s potential._
